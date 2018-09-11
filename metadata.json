@@ -1,0 +1,15 @@
+{
+  "name": "bcochran-ssh",
+  "version": "0.1.0",
+  "author": "bcochran",
+  "summary": "A puppet module to manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/somabc/puppet-ssh.git",
+  "project_page": "https://github.com/somabc/puppet-ssh",
+  "issues_url": "https://github.com/somabc/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
